@@ -4,7 +4,6 @@
 # Points: 90
 # Theme: Indirect Prompt Injection
 
-# Flag1:
 This is some Matrix-themed CTF. Let's start by establishing a benign conversation which we will later exploit.
 
 ```
