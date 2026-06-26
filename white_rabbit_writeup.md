@@ -22,7 +22,7 @@ the AI will prompt us to enter a phone number, which in response we will give it
 ```
 555-3003
 ```
-![whiterabbit1]()
+![whiterabbit1](https://github.com/realatharva15/ai_security-labs/blob/main/all%20images/whiterabbit1.png)
 
 this reveals the `Flag2` of the challenge aswell as some secret door-code. A person named Tank picks up the call. lets ask the AI systematically who this Tank guy is and reveal information about this bloke.
 
