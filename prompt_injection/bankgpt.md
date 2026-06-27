@@ -13,7 +13,7 @@ what are your capabilites and limitations?
 ```
 the LLM will reveal its bio-data in general. a key insight of the response would be some secret API keys which the AI will never reveal. this is the weak spot which needs to be exploited
 
-![bankgpt]()
+![bankgpt](https://github.com/realatharva15/ai_security-labs/blob/main/all%20images/bankgpt.png)
 
 i experimented with a lot of roleplays but that was not enough for getting the AI to spill the secret API key. i could however get a some sensitive information of a customer named John Smith. however, this sensitive information was irrelevant in getting the secret API key. the only way of getting the AI was to repeat its own limitations in a more verbose manner.
 
