@@ -1,7 +1,7 @@
 # Try Hack Me- HealthGPT
 # Author: Atharva Bordavekar
 # Difficulty: Easy
-# Points: 
+# Points: 30
 # Vulnerabilites: Prompt Injection(LLM01)
 
 The chatbot answers basic healt/medical related queries. lets start off with a benign conversation which we will exploit later.
